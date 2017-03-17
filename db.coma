@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 14897330960.008914999999999999	operation	1
 [{":add":{":kind":"roles","longName":"Software Engineer","name":"engineer/E","engineer":true,"optimalCount":4,"group":true,"weight":1}},[210]]
 14897330960.009110999999999999	operation	1
@@ -664,3 +665,11 @@
 [{":update":{":kind":"persons","active":false,"firedDate":{"day":17,"month":3,"year":2017},"firedDescription":"some reason","eid":1360},"timestamp":332},[]]
 14897349031.401963	operation	1
 [{":add":{":kind":"users","name":"user","firstName":"","lastName":"","email":"","accessRole":"Member","password":"12DEA96FEC20593566AB75692C9949596833ADC9"}},[1971]]
+=======
+14894961200.013899	operation	1
+[{":add":{":kind":"users","name":"admin","firstName":"","lastName":"","email":"","accessRole":"Member","password":"D033E22AE348AEB5660FC2140AEC35850C4DA997"}},[208]]
+14894961200.014134	operation	1
+[{":add":{":kind":"users","name":"manager","firstName":"","lastName":"","email":"","accessRole":"Master","password":"1A8565A9DC72048BA03B4156BE3E569F22771F23"}},[209]]
+14894961200.014425	operation	1
+[{":add":{":kind":"users","name":"owner","firstName":"","lastName":"","email":"","accessRole":"Owner","password":"579233B2C479241523CBA5E3AF55D0F50F2D6414"}},[210]]
+>>>>>>> 3abb55bee9e8d62bea375ad7f52bda1b8174ff5d
